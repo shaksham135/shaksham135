@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shaksham 👋
 
-<!--
-**shaksham135/shaksham135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Backend & Web Developer
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java
+- Spring Boot
+- MySQL
+- React
+- JavaScript
+- HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Financial Dashboard
+- E-commerce Website
+- Email Resilient Service
+- Examination System
+
+## Currently
+- Building modern web applications
+- Exploring scalable backend systems
+- Open for freelance opportunities
+
+📫 Contact: shaksham135@gmail.com
